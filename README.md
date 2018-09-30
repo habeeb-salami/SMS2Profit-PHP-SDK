@@ -1,0 +1,2 @@
+# SMS2Profit-PHP-SDK
+SMS2Profit is an SMS Marketing platform that provides series of SMS solutions for small to enterprise businesses. This Free SMS Gateway PHP SDK is for developers who wants to integrate our platform with their application, The integration tutorial for the SDK can be found here http://habeelety.blogspot.com.ng/2017/01/free-sms-gateway-programming-in-php.html. If you dont have an account on our platform, you can signup for free SMS account portal.sms2profit.com 
